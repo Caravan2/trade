@@ -1,5 +1,5 @@
 # trade
 
-This is unfinished project for trade ai tha will be able to maximize the profit.
+This is unfinished project for trade ai that will be able to maximize the profit.
 
 © 2019 Caravan
